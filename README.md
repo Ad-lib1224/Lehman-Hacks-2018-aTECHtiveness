@@ -1,0 +1,2 @@
+# Lehman-Hacks-2018-aTECHtiveness
+aTECHtiveness is a mobile app targeted to children between the ages of six through twelve designed to correct and monitor learning disability paradigms which results from ADHD symptoms. This program uses age-appropriate games and recreational activities including drawing and karaoke, as motivational materials, and real-life situations to help students learn and practice functional, emotional and behavioral patterns. 
